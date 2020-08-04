@@ -1,0 +1,14 @@
+#ano{
+    font-weight: bold;
+    font-size:30px;
+    text-align: center;
+}
+
+.cardinfo{
+    display: flex;
+}
+
+.lista{
+    font-weight: bold;
+    font-size:20px;
+}
